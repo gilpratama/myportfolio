@@ -1,0 +1,348 @@
+{
+	"settings": {
+		"textColor": "white",
+		"backgroundColor": "#1d1d1d",
+		"padding": "50"
+	},
+	"info": {
+		"name": "Gilang K. Pratama",
+		"jobTitle": "Full Stack Engineer",
+		"about": "",
+		"images": [
+			{
+				"background_image": "/img/4.jpg",
+				"background_position": "right top"
+			},
+			{
+				"background_image": "/img/1.jpg",
+				"background_position": "center"
+			},
+			{
+				"background_image": "/img/2.jpg",
+				"background_position": "center"
+			},
+			{
+				"background_image": "/img/3.jpg",
+				"background_position": "left"
+			}
+		]
+	},
+	"skills": [
+		{
+			"header": {
+				"name": "server side",
+				"color": "rgb(255, 193, 7, 0.5)",
+				"percent": "90"
+			},
+			"skills": [
+				{ "name": "PHP Fundamental", "degree": "intermediate" },
+				{ "name": "Relational Database", "degree": "intermediate" },
+				{ "name": "CodeIgniter", "degree": "junior" },
+				{ "name": "Laravel", "degree": "junior" },
+				{ "name": "Node.js", "degree": "junior" }
+			]
+		},
+		{
+			"header": {
+				"name": "client side",
+				"color": "rgb(8, 253, 216, 0.5)",
+				"percent": "60"
+			},
+			"skills": [
+				{ "name": "HTML, CSS, Javascript", "degree": "senior" },
+				{ "name": "React.js", "degree": "junior" },
+				{ "name": "Flutter", "degree": "junior" },
+				{ "name": "Vue.js", "degree": "junior" }
+			]
+		},
+		{
+			"header": {
+				"name": "others ...",
+				"color": "#2D4B59",
+				"percent": "70"
+			},
+			"skills": [
+				{
+					"name": "Schema Design",
+					"degree": "junior"
+				},
+				{
+					"name": "UI / UX Design",
+					"degree": "junior"
+				},
+				{
+					"name": "IT Planning",
+					"degree": "intermediate"
+				},
+				{
+					"name": "IT Infrastructure",
+					"degree": "junior"
+				},
+				{
+					"name": "Management",
+					"degree": "intermediate"
+				},
+				{
+					"name": "Communication",
+					"degree": "senior"
+				},
+				{
+					"name": "Negotioation",
+					"degree": "senior"
+				}
+			]
+		}
+	],
+	"experiences": [
+		{
+			"logo": "img/logos/cpr.png",
+			"title": "Full Stack Engineer - CPR Vision Management Pte Ltd",
+			"time": "Jan 2021 - Present",
+			"location": "Singapore",
+			"description": "About to get started in January",
+			"status": "online",
+			"details": {
+				"members": "",
+				"type": "Contract - Full Time",
+				"period": "",
+				"tecs": ["PHP", "Laravel", "Redis", "Vue.js","LiveWire","MQTT","Flutter"],
+				"partners": [
+					{
+						"name": "",
+						"jobTitle": "",
+						"picture": ""
+					}
+				],
+				"achievements": ""
+			}
+		},
+		{
+			"logo": "img/logos/kemendagri.png",
+			"title": "Full Stack Developer - Kementrian Dalam Negeri",
+			"time": "Jan 2019 - Nov 2019",
+			"location": "Pekanbaru, Indonesia",
+			"description": "The Ministry of Home Affairs of the Republic of Indonesia (Ministry of Home Affairs of the Republic of Indonesia) is a ministry in the Government of Indonesia that deals with domestic affairs. The Ministry of Home Affairs is under and responsible to the President. The Ministry of Home Affairs is headed by a Home Minister",
+			"status": "",
+			"images": [
+				{
+					"link": "img/experiences/kesbangpol/1.jpg",
+					"title": "The Agreement of Teams and the Stakeholder"
+				},
+				{
+					"link": "img/experiences/kesbangpol/2.jpg",
+					"title": "Me and the team"
+				}
+			],
+			"details": {
+				"members": "+ 5",
+				"type": "Project - Internship",
+				"period": "11 months",
+				"tecs": ["PHP", "CodeIgniter", "Bower", "MySQL"],
+				"partners": [
+					{
+						"name": "Ade Saputra",
+						"jobTitle": "Full Stack Engineer",
+						"picture": "img/experiences/kesbangpol/partners/ade.png"
+					},
+					{
+						"name": "Illham Syafutra",
+						"jobTitle": "Database Engineer",
+						"picture": "img/experiences/kesbangpol/partners/illham.png"
+					},
+					{
+						"name": "Alfi Nasution",
+						"jobTitle": "Database Engineer",
+						"picture": "img/experiences/kesbangpol/partners/alfi.png"
+					},
+					{
+						"name": "Sity Fatimah",
+						"jobTitle": "Front End Engineer",
+						"picture": "img/experiences/kesbangpol/partners/sity.png"
+					},
+					{
+						"name": "Chaterine Natalia",
+						"jobTitle": "Front End Engineer",
+						"picture": "img/experiences/kesbangpol/partners/ketrin.png"
+					}
+				],
+				"achievements": "The webapp goes live and still can be accessible until now"
+			}
+		},
+		{
+			"logo": "img/logos/unilak.png",
+			"title": "Head of Education Division - Himatika Unilak",
+			"time": "May 2018 - May 2018",
+			"location": "Pekanbaru , Riau",
+			"description": "I was the Head of the Education Division in the Student Body Association (Himpunan Mahasiswa Jurusan) Universitas Lancang Kuning. I have responsibility such as preparing the committee of Educational events like Journal Studying, Seminars, Webinars, etc.",
+			"status": "",
+			"details": {
+				"members": "",
+				"type": "Organization",
+				"period": "1 Year",
+				"tecs": ["Negotiation", "Communication"],
+				"partners": [
+					{
+						"name": "Sity Fatimah",
+						"jobTitle": "General Secretary",
+						"picture": "img/experiences/kesbangpol/partners/sity.png"
+					}
+				],
+				"achievements": ""
+			}
+		},
+		{
+			"logo": "img/logos/unilak.png",
+			"title": "Teaching Assistant - Fasilkom Unilak",
+			"time": "May 2018 - May 2018",
+			"location": "Pekanbaru , Riau",
+			"description": "Teaching Assistant on the Information System Management Course. This course studied about planning system part of the internal control of a business related to humans, documents, technology, and procedures by management accounting to solve business problems such as the cost of products, services, or a business strategy.",
+			"status": "",
+			"details": {
+				"members": "",
+				"type": "Voluntary",
+				"period": "1 Year",
+				"tecs": ["Teaching", "Communication"],
+				"partners": [
+					{
+						"name": "Muhammad Sadar",
+						"jobTitle": "Main Lecturer",
+						"picture": "img/experiences/unilak/partners/sadar.jpg"
+					}
+				],
+				"achievements": ""
+			}
+		},
+		{
+			"logo": "img/logos/unilak.png",
+			"title": "Student Assistant - Fasilkom Unilak",
+			"time": "Jan 2017 - Dec 2017",
+			"location": "Pekanbaru , Riau",
+			"description": "I worked as a student assistant to handle the set-up of the Oracle Database Academy, helping lecturers in Researches, and helping the lecturers translate Research Journals.",
+			"status": "",
+			"details": {
+				"members": "",
+				"type": "Voluntary",
+				"period": "1 Year",
+				"tecs": ["Teaching", "Communication","Writing","Research"],
+				"partners": [
+					{
+						"name": "Ahmad Zamsuri",
+						"jobTitle": "Main Researcher",
+						"picture": "img/experiences/unilak/partners/ahmad.jpg"
+					}
+				],
+				"achievements": ""
+			}
+		}
+	],
+	"memories": [
+		{
+			"title": "The Best Speaker of Riau English Youth Forum",
+			"description": "I win the speech contest inaugurated as the Best Speaker of the Forum by the EYF",
+			"images": [
+				{
+					"link": "img/memories/eyf1.jpg",
+					"title": "I gave speech in the Forum"
+				},
+				{
+					"link": "img/memories/eyf2.jpg",
+					"title": "Inaugurated as the Best Speaker"
+				}
+			]
+		},
+		{
+			"title": "National University Debate Championship",
+			"description": "Me and my Partner won to the quarter Final, debating for National English Debate",
+			"images": [
+				{
+					"link": "img/memories/nudc1.jpg",
+					"title": "National University Debate Championship"
+				},
+				{
+					"link": "img/memories/nudc2.jpg",
+					"title": "National University Debate Championship"
+				},
+				{
+					"link": "img/memories/nudc3.jpg",
+					"title": "National University Debate Championship"
+				},
+				{
+					"link": "img/memories/nudc4.jpg",
+					"title": "National University Debate Championship"
+				},
+				{
+					"link": "img/memories/nudc5.jpg",
+					"title": "National University Debate Championship"
+				}
+			]
+		},
+		{
+			"title": "The Runner of English Speech Contest",
+			"description": "I was the Runner Up of English Speech Contest held by Lancang Kuning University",
+			"images": [
+				{
+					"link": "img/memories/win-1.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/win-2.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/win-3.jpg",
+					"title": ""
+				}
+			]
+		},
+		{
+			"title": "Chevron Internship Program 2014",
+			"description": "I got the opportunity to Intern in Chevron, one of the biggest oil and gas company",
+			"images": [
+				{
+					"link": "img/memories/chev-1.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/chev-2.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/chev-3.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/chev-4.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/chev-5.jpg",
+					"title": ""
+				},
+				{
+					"link": "img/memories/chev-6.jpg",
+					"title": ""
+				}
+			]
+		}
+	],
+	"educations": [
+		{
+			"logo": "img/logos/unilak.png",
+			"title": "Lancang Kuning University",
+			"time": "2016 - 2020",
+			"description": "Bachelors - Information Technology, 3.81 / 4.00"
+		},
+		{
+			"logo": "img/logos/smk.png",
+			"title": "SMK Negeri 7 Pekanbaru",
+			"time": "2012 - 2015",
+			"description": "Vocational School of Software Engineering"
+		}
+	],
+	"contact": {
+		"mobile": "+62 811 750 xxxx",
+		"email": "gilpratama@outlook.com",
+		"github": "gilpratama",
+		"linkedin": "in/gilang-pratam"
+	}
+}
