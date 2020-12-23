@@ -10,7 +10,7 @@
 		"about": "",
 		"images": [
 			{
-				"background_image": "/img/4.jpg",
+				"background_image": "/img/4.JPG",
 				"background_position": "right top"
 			},
 			{
@@ -18,11 +18,11 @@
 				"background_position": "center"
 			},
 			{
-				"background_image": "/img/2.jpg",
+				"background_image": "/img/2.JPG",
 				"background_position": "center"
 			},
 			{
-				"background_image": "/img/3.jpg",
+				"background_image": "/img/3.JPG",
 				"background_position": "left"
 			}
 		]
